@@ -4,7 +4,7 @@ void setup(){
 
 int x = 200;
 void draw (){
-  background (000,80,120);
+  background (000,180,120);
   fill(8,195,250);
   rect(0,0,500,230);
   noStroke();
